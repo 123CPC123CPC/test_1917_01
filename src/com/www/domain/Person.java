@@ -1,4 +1,4 @@
-package com.www.domain;
+﻿package com.www.domain;
 
 /**
  * 作者：高空的鹰PLA
@@ -11,5 +11,7 @@ public class Person {
 	private String address;
 	private String bran1;
 	private String bran2;
+	//------
+	private String test;
 
 }
